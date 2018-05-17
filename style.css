@@ -13,8 +13,8 @@ html, body {
 
 .body {
   
-    /* background: rgb(180, 255, 216); */
-  background: rgb(255, 185, 185);
+    background: rgb(180, 255, 216);
+  /* background: rgb(255, 185, 185); */
 
   /* background-image: url(img/background.jpg); */
   /* background: linear-gradient(to bottom, rgb(255, 185, 185) 10%, rgb(255, 185, 185) 50%); */
@@ -95,8 +95,8 @@ img.profile {
 }
 
 .links a:hover {
-  /* background-color: rgba(180, 255, 216, 0.671); */
-  background-color: rgba(255, 185, 185, 0.671);
+  background-color: rgba(180, 255, 216, 0.671);
+  /* background-color: rgba(255, 185, 185, 0.671); */
   border-radius: 7.5px;
 }
 
