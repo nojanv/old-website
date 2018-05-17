@@ -31,10 +31,6 @@ img.profile {
  animation: toColor 1s;
 } */
 
-a {
-  text-decoration: none;
-}
-
 /* .background {
   position: absolute;
   left: 0;
@@ -55,8 +51,8 @@ a {
 }
 
 .wrapper {
-  /* background-color: lightpink; */
-  max-width: 50%;
+  background-color: rgb(255, 221, 226);
+  max-width: 85%;
   display: flex;
   flex-direction: row;
   height: 80%;
@@ -87,7 +83,7 @@ a {
   font-family: 'Raleway Dots', cursive;
   list-style: none;
   padding-left: 0px;
-  /* padding-top: 10px; */
+  padding-top: 40px;
   font-size: 17px;
 }
 
@@ -103,3 +99,12 @@ a {
 
 .links a:hover {
   background-color: rgba(0, 0, 0, 0.1);
+}
+
+.bio2 a {
+  text-decoration: none;
+}
+
+.email a {
+  text-decoration: none;
+}
